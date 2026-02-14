@@ -1,0 +1,44 @@
+# Maven
+target/
+.m2/
+*.jar
+*.war
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+*.class
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+
+# Node (if used)
+node_modules/
+npm-debug.log
+
+# Python cache (if used)
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Environment files
+.env
+.env.local
+
